@@ -1,0 +1,17 @@
+1.配置git用户名和邮箱
+
+  —git config --global user.name "你的用户名"
+
+  —git config --global user.email "你的邮箱"
+
+2.创建一个目录并进入（工作区）
+
+3.初始化仓库
+
+  —git init 
+
+4.在工作区中新建一个文件
+5.把工作区的文件添加到暂存区
+  —git add 文件名
+6.把暂存区的文件添加到历史区
+  —git commit -m“注释”
